@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "63KVZQfi+s+gv+lL3Zn2reAxgXByP1/cSbcZ8ERhfPz2JzCMP+cmOC+wmnqyWzsfjzPofe3g1Uzb+mUyTrWK8g==",
+  "success": true,
+  "projectFilePath": "/Users/shockz/Desktop/alm/dotnet_webhook/webhook.api/webhook.api.csproj",
+  "expectedPackageFiles": [
+    "/Users/shockz/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/shockz/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/shockz/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "/Users/shockz/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "/Users/shockz/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "/Users/shockz/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}

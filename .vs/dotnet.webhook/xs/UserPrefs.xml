@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{3FE1427A-E1B5-46B2-9A96-FA31A7C8F5A5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="webhook.api/ResponseHandler.cs">
+    <Files>
+      <File FileName="webhook.api/ResponseHandler.cs" Line="5" Column="7" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="dotnet.webhook" expanded="True">
+            <Node name="webhook.api" expanded="True">
+              <Node name="ResponseHandler.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.webhook.api PreferredExecutionTarget="/Applications/Microsoft Edge.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
